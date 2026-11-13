@@ -1,12 +1,12 @@
 # 🚲 Wheelie Bike
 
-Ein 2D-Wheelie-Spiel im Browser – halte das Vorderrad oben, spring über Rampen und sammel Münzen für neue Bikes.
+Ein 2D-Wheelie-Spiel im Browser – halte das Vorderrad oben, spring über Rampen, fahr durch Hügel und Wüste und sammel Münzen für neue Bikes.
 
 ## ▶️ Jetzt spielen
 
 👉 https://tillwassenhoven1-glitch.github.io/Wheelie-Bike/
 
-Keine Installation, kein Konto nötig – läuft auf Handy, iPad und PC. 🎮 Version 0.1 · Open Beta
+Keine Installation, kein Konto nötig – läuft auf Handy, iPad und PC. 🎮 Version 0.2 · Open Beta
 
 ## So funktioniert's
 
@@ -19,11 +19,14 @@ Keine Installation, kein Konto nötig – läuft auf Handy, iPad und PC. 🎮 Ve
 ## Features
 
 - ♾️ **Endlos-Modus** – fahr so weit du kannst, mit Highscore 🏆 (je weiter, desto mehr Rampen)
-- 🏁 **Stages 1–5** – von 350 m bis 1000 m bis zur Zielflagge, jede geschaffte Stage schaltet die nächste frei
-- 🪵 **Holzrampen** zum Springen – und kleine Hügel, die dich aus dem Gleichgewicht bringen
+- 🏁 **Level 1–10** – von 350 m bis 1150 m bis zur Zielflagge, jedes geschaffte Level schaltet das nächste frei
+- 🌄 **Level 1–5 im Abendland** mit Bäumen und Büschen – 🏜️ **Level 6–10 in der Wüste** mit Dünen, Kakteen, Palmen und Pyramiden
+- 🪵 **Viel Gelände:** kurze & lange Holzrampen, Doppelrampen, Plateaus, Drops, Hügel, Senken, Dünen und Steinfelder
+- 🛬 **Landehilfe** – nach Sprüngen und an Rampen fällt das Vorderrad nicht mehr so schnell runter
 - 🪙 **Münzen sammeln** – auf der Strecke und in der Luft über den Rampen, plus Bonus-Münzen fürs Ziel
 - 🛒 **Fahrrad-Shop** mit 7 Bikes: Classic, BMX Street, Mountainbike, Polizei-Rad mit Blaulicht, Neon Rider, Goldrad & Regenbogen-Rad 🌈 (nur Optik – alle fahren gleich schnell)
-- 🌆 Sonnenuntergangs-Landschaft mit Bergen, Wolken und Meter-Schildern
+- ♾️ Im Endlos-Modus wechselt die Landschaft alle 500 m zwischen Abendland und Wüste
+- 🔑 **Geheimes Cheat-Menü** – nur mit dem richtigen Code 😏
 - 🔊 Sounds für Münzen, Sprünge, Landungen und Crashs
 - 💾 Rekord, Münzen und gekaufte Bikes werden automatisch gespeichert
 - 📲 Touch-Steuerung fürs Handy/iPad – oder Maus & Tastatur am PC
