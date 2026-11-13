@@ -1,18 +1,41 @@
-# 🚲 Wheelie-Bike
+# 🚲 Wheelie Bike
 
-2D-Wheelie-Spiel im Browser – einfach öffnen und losfahren!
+Ein 2D-Wheelie-Spiel im Browser – halte das Vorderrad oben, spring über Rampen und sammel Münzen für neue Bikes.
 
-**▶ Spielen:** https://tillwassenhoven1-glitch.github.io/wheelie-bike/
+## ▶️ Jetzt spielen
 
-## Steuerung
-- **Halten** (Maus / Finger / Leertaste) → Vorderrad geht hoch
-- **Loslassen** → Vorderrad geht runter
-- Zu lange halten → du kippst nach hinten 🙃
-- Beide Räder auf dem Boden → Game Over 😬
+👉 https://tillwassenhoven1-glitch.github.io/wheelie-bike/
+
+Keine Installation, kein Konto nötig – läuft auf Handy, iPad und PC. 🎮 Version 1.0
+
+## So funktioniert's
+
+- 🖐️ **Halten** – das Vorderrad geht hoch, du fährst einen Wheelie
+- 👇 **Loslassen** – das Vorderrad geht wieder runter
+- 🙃 Zu lange gehalten? Dann kippst du nach hinten – **Game Over**
+- 😬 Beide Räder auf dem Boden? Auch **Game Over**
+- 🎯 Der Tacho oben zeigt deinen Winkel – im grünen Bereich bist du sicher
 
 ## Features
-- ♾️ **Endlos-Modus** mit Highscore
-- 🏁 **Stages 1–5** mit Zielflagge (werden nacheinander freigeschaltet)
-- 🪵 Rampen zum Springen
-- 🪙 Münzen sammeln und im **Fahrrad-Shop** neue Bikes kaufen (nur Optik – alle fahren gleich schnell)
-- 💾 Fortschritt wird im Browser gespeichert
+
+- ♾️ **Endlos-Modus** – fahr so weit du kannst, mit Highscore 🏆 (je weiter, desto mehr Rampen)
+- 🏁 **Stages 1–5** – von 350 m bis 1000 m bis zur Zielflagge, jede geschaffte Stage schaltet die nächste frei
+- 🪵 **Holzrampen** zum Springen – und kleine Hügel, die dich aus dem Gleichgewicht bringen
+- 🪙 **Münzen sammeln** – auf der Strecke und in der Luft über den Rampen, plus Bonus-Münzen fürs Ziel
+- 🛒 **Fahrrad-Shop** mit 7 Bikes: Classic, BMX Street, Mountainbike, Polizei-Rad mit Blaulicht, Neon Rider, Goldrad & Regenbogen-Rad 🌈 (nur Optik – alle fahren gleich schnell)
+- 🌆 Sonnenuntergangs-Landschaft mit Bergen, Wolken und Meter-Schildern
+- 🔊 Sounds für Münzen, Sprünge, Landungen und Crashs
+- 💾 Rekord, Münzen und gekaufte Bikes werden automatisch gespeichert
+- 📲 Touch-Steuerung fürs Handy/iPad – oder Maus & Tastatur am PC
+
+## Steuerung (PC)
+
+| Taste | Aktion |
+|---|---|
+| Leertaste · ↑ · W | Wheelie (gedrückt halten) |
+| Maus (gedrückt halten) | Wheelie |
+| P · Esc | Pause |
+
+---
+
+Gemacht von Till · mit Hilfe von Claude (KI) 🤖
