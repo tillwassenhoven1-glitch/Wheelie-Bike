@@ -6,7 +6,7 @@ Ein 2D-Wheelie-Spiel im Browser – halte das Vorderrad oben, spring über Rampe
 
 👉 https://tillwassenhoven1-glitch.github.io/wheelie-bike/
 
-Keine Installation, kein Konto nötig – läuft auf Handy, iPad und PC. 🎮 Version 1.0
+Keine Installation, kein Konto nötig – läuft auf Handy, iPad und PC. 🎮 Version 0.1 · Open Beta
 
 ## So funktioniert's
 
